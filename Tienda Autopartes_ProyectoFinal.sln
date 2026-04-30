@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda Autopartes_ProyectoFinal", "Tienda Autopartes_ProyectoFinal.csproj", "{DB5091B0-E420-4CCF-AE63-23C9302FF722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5091B0-E420-4CCF-AE63-23C9302FF722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5091B0-E420-4CCF-AE63-23C9302FF722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5091B0-E420-4CCF-AE63-23C9302FF722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5091B0-E420-4CCF-AE63-23C9302FF722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAD2C85-9E7D-4973-A0DB-A44D9883EAD2}
+	EndGlobalSection
+EndGlobal

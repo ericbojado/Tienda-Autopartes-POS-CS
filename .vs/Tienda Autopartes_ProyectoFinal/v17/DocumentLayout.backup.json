@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmcortecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmcortecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\itemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:itemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|d:\\c#\\laptop_tienda autopartes_proyectofinal\\frmcortecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmcortecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB5091B0-E420-4CCF-AE63-23C9302FF722}|Tienda Autopartes_ProyectoFinal.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:37:54.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemComparer.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\ItemComparer.cs",
+              "RelativeDocumentMoniker": "ItemComparer.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\ItemComparer.cs",
+              "RelativeToolTip": "ItemComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:39:21.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmMenuPrincipal.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmMenuPrincipal.cs*",
+              "RelativeToolTip": "FrmMenuPrincipal.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:48:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmMenuPrincipal.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmMenuPrincipal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmMenuPrincipal.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:48:44.106Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCorteCaja.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCorteCaja.cs",
+              "RelativeDocumentMoniker": "FrmCorteCaja.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCorteCaja.cs",
+              "RelativeToolTip": "FrmCorteCaja.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:45:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCorteCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCorteCaja.cs",
+              "RelativeDocumentMoniker": "FrmCorteCaja.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCorteCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmCorteCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:45:45.87Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "FrmVentas.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmVentas.cs",
+              "RelativeToolTip": "FrmVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:44:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "FrmVentas.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:43:53.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCrudUsuarios.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCrudUsuarios.cs",
+              "RelativeDocumentMoniker": "FrmCrudUsuarios.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCrudUsuarios.cs",
+              "RelativeToolTip": "FrmCrudUsuarios.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAASwMcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:42:47.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmInventario.cs",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmInventario.cs",
+              "RelativeDocumentMoniker": "FrmInventario.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmInventario.cs",
+              "RelativeToolTip": "FrmInventario.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAAD8BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:34:10.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCrudUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCrudUsuarios.cs",
+              "RelativeDocumentMoniker": "FrmCrudUsuarios.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmCrudUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmCrudUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:42:40.149Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmInventario.cs",
+              "RelativeDocumentMoniker": "FrmInventario.cs",
+              "ToolTip": "D:\\C#\\Laptop_Tienda Autopartes_ProyectoFinal\\FrmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:34:39.419Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

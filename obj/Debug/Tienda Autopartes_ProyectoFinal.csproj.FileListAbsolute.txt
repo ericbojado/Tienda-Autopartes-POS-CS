@@ -1,0 +1,36 @@
+D:\C#\Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.exe.config
+D:\C#\Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.exe
+D:\C#\Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.pdb
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.AssemblyReference.cache
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmLogin.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.Properties.Resources.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.GenerateResource.cache
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.exe
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.pdb
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.exe.config
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmGestionUsuarios.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmCrudUsuarios.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmInventario.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmMenuPrincipal.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmCorteCaja.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmGestionInventario.resources
+D:\C#\Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmVentas.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.exe.config
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.exe
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\bin\Debug\Tienda Autopartes_ProyectoFinal.pdb
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.AssemblyReference.cache
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.exe.config
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmCorteCaja.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmGestionInventario.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmGestionUsuarios.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmCrudUsuarios.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmInventario.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmLogin.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmMenuPrincipal.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.FrmVentas.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda_Autopartes_ProyectoFinal.Properties.Resources.resources
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.GenerateResource.cache
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.exe
+D:\C#\Laptop_Tienda Autopartes_ProyectoFinal\obj\Debug\Tienda Autopartes_ProyectoFinal.pdb
